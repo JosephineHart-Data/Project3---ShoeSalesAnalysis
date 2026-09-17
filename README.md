@@ -74,3 +74,28 @@ See recommendations below.
 5. At brand-level base on revenue,  Clarks and Zara (60%+ of revenue) are the highest-selling ones.
 6. **Lean into Formal footwear and the Clarks/Zara partnership**, but monitor the concentration risk — two brands driving 60%+ of revenue is efficient but exposed if either relationship weakens.
 7. **Keep all four payment rails fully supported**, with particular attention to Mobile Money infrastructure in African markets where it already carries meaningful share.
+
+
+## Dashboard
+
+![Shoe Sales Dashboard](Shoe_Sales_Dashboard.png)
+
+## Project Overview
+
+This project analyzes shoe sales data to identify sales trends, product performance, profitability, and key business insights.
+
+## Tools Used
+
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Data Cleaning
+- Data Analysis
+
+## Key Analysis
+
+- Sales performance by product
+- Sales trends over time
+- Top-performing products
+- Profit and margin analysis
+- Product/category performance

@@ -78,7 +78,7 @@ See recommendations below.
 
 ## Dashboard
 
-![Shoe Sales Dashboard](Shoe_Sales_Dashboard.png)
+![Shoe Sales Dashboard](Shoe_Sales_Report.png)
 
 ## Project Overview
 

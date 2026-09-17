@@ -80,6 +80,7 @@ See recommendations below.
 
 ![Shoe Sales Dashboard](Shoes_Sales_Report.png)
 
+
 ## Project Overview
 
 This project analyzes shoe sales data to identify sales trends, product performance, profitability, and key business insights.
